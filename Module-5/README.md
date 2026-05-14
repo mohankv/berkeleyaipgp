@@ -25,9 +25,7 @@ This assignment analyzes the `coupons.csv` dataset to identify factors that affe
 
 Open the detailed analysis in the notebook:
 
-- [prompt.ipynb](prompt.ipynb)
+- [prompt.ipynb](/Module-5/assignment5_1_starter/prompt.ipynb)
 
-## File locations
-
-- Notebook: `prompt.ipynb`
-- Data: `data/coupons.csv`
+## Other File locations
+- Data: [coupons.csv](Module-5/assignment5_1_starter/data/coupons.csv)
